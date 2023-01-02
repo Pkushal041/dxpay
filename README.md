@@ -1,3 +1,8 @@
+Prequisites : Node-js 
+
+run "npx create-react-app appname" to create a basic react app. Then copy our files into that folder to use the app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
